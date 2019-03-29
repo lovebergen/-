@@ -1,0 +1,23 @@
+
+.container h1~p {
+	color: green;
+}
+h2+p {
+	color: red;
+}
+#h2_text 
+{
+	font-family: roboto;
+	font-size: 20px;
+	color: yellow;
+	margin: 20px
+	padding: 20px;
+}
+.tag .block-1 #block-2 .block-3 ul li
+{
+	color: red;
+}
+.tag .block-1 #block-2 .block-3 ul #list_12
+{
+	color: blue;
+}
